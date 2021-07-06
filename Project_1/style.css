@@ -1,0 +1,14 @@
+body{
+    background-color: dimgray;
+    font-size: 3rem;
+}
+.container{
+    align-self: center;
+    
+    margin:  200px;
+    align-items: center;
+    padding: 12%;
+}
+.followers{
+    color:antiquewhite;
+}
